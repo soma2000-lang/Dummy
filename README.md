@@ -80,10 +80,8 @@ development environment.
 
 ## Contributors
 
-Thank you to all of our wonderful contributors!
+Thank you to all of our wonderful [contributors](https://github.com/DigitalBiomarkerDiscoveryPipeline/Digital_Health_Data_Repository/graphs/contributors)
 
-<a href="https://github.com/DigitalBiomarkerDiscoveryPipeline/Digital_Health_Data_Repository/graphs/contributors">
-</a>
 
 License
 ----
