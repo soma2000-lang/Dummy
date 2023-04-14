@@ -57,7 +57,7 @@ If making a contribution to an existing repository:
 
 1. Fork the existing repo
  ```python
-from tensorflow import keras
+https://github.com/DigitalBiomarkerDiscoveryPipeline/Digital_Health_Data_Repository
 ```
 
 3. Clone forked repo locally
