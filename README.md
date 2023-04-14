@@ -67,7 +67,7 @@ git clone https://github.com/your_username/Digital_Health_Data_Repository
 3. Make changes and commit/push to forked repo
 4. Submit a [pull reuest](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
-5. Make an Issue in GitHub to let repo director (currently Brinnae) know so she can approve.
+5. Make an Issue in GitHub to let repo director (currently [Brinnae](https://github.com/brinnaebent)) know so she can approve.
 
 If making a contribution of a new repository:
 
