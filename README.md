@@ -96,7 +96,7 @@ and validate the proposed changes.
 To make code changes, you need to fork the repository. You will need to setup a
 development environment.
 
-### Step 3. Make the PR
+### Step 3. Make the [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 To make code changes, you need to fork the repository. You will need to setup a
 development environment.
