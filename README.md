@@ -65,7 +65,8 @@ https://github.com/DigitalBiomarkerDiscoveryPipeline/Digital_Health_Data_Reposit
 git clone https://github.com/your_username/Digital_Health_Data_Repository
 ```
 3. Make changes and commit/push to forked repo
-4. Submit a pull request
+4. Submit a [pull reuest](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+
 5. Make an Issue in GitHub to let repo director (currently Brinnae) know so she can approve.
 
 If making a contribution of a new repository:
@@ -85,21 +86,6 @@ Just getting started Please read through the [resources](https://github.com/Digi
 
 Before contributing code, please fill our form our [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe-hMOTwrSNaX0d7JyqhZP-6TrmRel9tXJLpclCP1tjGMWzgQ/viewform) .
 
-### Step 1. Open an issue
-
-Before making any changes, we recommend opening an issue (if one doesn't already
-exist) and discussing your proposed changes. This way, we can give you feedback
-and validate the proposed changes.
-
-### Step 2. Make code changes
-
-To make code changes, you need to fork the repository. You will need to setup a
-development environment.
-
-### Step 3. Make the [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-
-To make code changes, you need to fork the repository. You will need to setup a
-development environment.
 
 ## Contributors
 
