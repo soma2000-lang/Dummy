@@ -23,6 +23,8 @@ For general help with the DBDP, see our [USER GUIDE](https://github.com/DigitalB
 Please refer to specific DBDP modules for instructions for use. 
 
 The [Digital Biomarker Discovery Resource Guide](https://github.com/DigitalBiomarkerDiscoveryPipeline/DBDP/wiki/Digital-Biomarker-Discovery-Resources) is available now!
+We are a new and growing project and welcome [contributions](CONTRIBUTING.md).
+
 
 
 
