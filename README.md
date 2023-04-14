@@ -82,8 +82,7 @@ development environment.
 
 Thank you to all of our wonderful contributors!
 
-<a href="https://github.com/keras-team/keras-cv/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=keras-team/keras-cv" />
+<a href="https://github.com/DigitalBiomarkerDiscoveryPipeline/Digital_Health_Data_Repository/graphs/contributors">
 </a>
 
 License
