@@ -47,13 +47,29 @@ The results of this method on the following wearable sensors:
 
 
 ### Contributing
+### Please see the DBDP/Instructions for a full and complete guide to contributing and for formatting.
 
-For inclusion into the digital biomarkers discovery pipeline, please follow the instructions in the Instructions subdirectory and create an Issue.
-# Contribution guide
+#### Check out [GitHub's Guide to Contributing to Open Source Projects](https://opensource.guide/how-to-contribute/)
 
-KerasNLP is an actively growing project and community! We would love for you
-to get involved. Below are instructions for how to plug into KerasNLP
-development.
+**Instructions for Adding to DBDP: **
+
+If making a contribution to an existing repository:
+
+1. Fork the existing repo
+2. Clone forked repo locally
+3. Make changes and commit/push to forked repo
+4. Submit a pull request
+5. Make an Issue in GitHub to let repo director (currently Brinnae) know so she can approve.
+
+If making a contribution of a new repository:
+
+1. Please contact the DBDP either by making a pull request in this [repo](https://github.com/DigitalBiomarkerDiscoveryPipeline/DBDP/) or contacting the Big Ideas Lab. We highly encourage contribution of new modules and would love to have you contribute! Every situation is different, but this is how it typically works:
+- You become a member of the DBDP Organization
+- You now have rights to make a new repo. If you want to retain the original repo in your own profile/organization we can just import the repo to the DBDP. If you want to transfer ownership of the repo, we can also make that happen. 
+
+If you have questions, please reach out or submit an Issue in the corresponding DBDP module repository! 
+
+
 
 ## Background reading
 Just getting started Please read through the [resources](https://github.com/DigitalBiomarkerDiscoveryPipeline/DBDP/wiki/Digital-Biomarker-Discovery-Resources)
