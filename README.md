@@ -60,10 +60,13 @@ If making a contribution to an existing repository:
 https://github.com/DigitalBiomarkerDiscoveryPipeline/Digital_Health_Data_Repository
 ```
 
-3. Clone forked repo locally
-4. Make changes and commit/push to forked repo
-5. Submit a pull request
-6. Make an Issue in GitHub to let repo director (currently Brinnae) know so she can approve.
+2. Clone forked repo locally
+ ```python
+git clone https://github.com/your_username/Digital_Health_Data_Repository
+```
+3. Make changes and commit/push to forked repo
+4. Submit a pull request
+5. Make an Issue in GitHub to let repo director (currently Brinnae) know so she can approve.
 
 If making a contribution of a new repository:
 
