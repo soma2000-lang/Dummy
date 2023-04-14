@@ -28,7 +28,7 @@ The [Digital Biomarker Discovery Resource Guide](https://github.com/DigitalBioma
 
 
 
-### DBDP Modules
+### Currenty available DBDP Modules
 
 The results of this method on the following wearable sensors:
 
