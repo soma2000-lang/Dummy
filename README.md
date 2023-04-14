@@ -73,6 +73,19 @@ and validate the proposed changes.
 To make code changes, you need to fork the repository. You will need to setup a
 development environment.
 
+### Step 3. Make the PR
+
+To make code changes, you need to fork the repository. You will need to setup a
+development environment.
+
+## Contributors
+
+Thank you to all of our wonderful contributors!
+
+<a href="https://github.com/keras-team/keras-cv/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=keras-team/keras-cv" />
+</a>
+
 License
 ----
 
