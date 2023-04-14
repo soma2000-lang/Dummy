@@ -57,35 +57,11 @@ development.
 
 ## Background reading
 
-Before contributing code, please review our [Style Guide](STYLE_GUIDE.md) and
-[API Design Guide](API_DESIGN_GUIDE.md).
-
-Our [Roadmap](ROADMAP.md) contains an overview of the project goals and our
-current focus areas.
-
-We follow
-[Google's Open Source Community Guidelines](https://opensource.google/conduct/).
-
-## Finding an issue
-
-The fastest way to contribute it to find open issues that need an assignee. We
-maintain two lists of github tags for contributors:
-
- - [good first issue](https://github.com/keras-team/keras-nlp/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22):
-   a list of small, well defined issues for newcomers to the project.
- - [contributions welcome](https://github.com/keras-team/keras-nlp/issues?q=is%3Aissue+is%3Aopen+label%3A%22contributions+welcome%22):
-   a larger list of issues that may range in complexity.
-
-If you would like propose a new symbol or feature, please first review our
-design guide and roadmap linked above, and open an issue to discuss. If you have
-a specific design in mind, please include a Colab notebook showing the proposed
-design in a end-to-end example. Keep in mind that design for a new feature or
-use case may take longer than contributing to an open issue with a
-vetted-design.
 
 ## Contributing code
 
-Follow these steps to submit your code contribution.
+Before contributing code, please fill our form our [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe-hMOTwrSNaX0d7JyqhZP-6TrmRel9tXJLpclCP1tjGMWzgQ/viewform) and
+[API Design Guide](API_DESIGN_GUIDE.md).
 
 ### Step 1. Open an issue
 
