@@ -16,8 +16,7 @@ Title    |          Description
  |Glossary | Build a glossary for all technical terms in this project.
  |Visibility | The documentation isnt easy to see , at least it should be visible in the project landing page and github .
  |Navigation | Current documentation is scattered  and difficult to understand for newbies.
- |Broswer compatibility , Operating System System RAM Compatibility| 
- |News & Updates | A News & Updates section where users are informed of the updates that have been made to the documentation.
+ |Operating System System RAM Compatibility and setup environment| 
  |Local Machine Server |  We may have a developers note section for things that developers should take not of . for example this.
  |How to contribute to the DBDP file | If changes were to be made to a spec file , add a guideline to help people know a few things about the open api     file and how to contribute to it.
 
