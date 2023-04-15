@@ -12,7 +12,6 @@ Title    |          Description
 
  |Contribution guidelines | A more detailed and easily understandable guideline for open source enthusiasts to easily contribute to the currentdocumentation.
  |Broken Links | 
- |Add image to existing product | Improved the guidelines on how to add photo to an existing product irrespective of file type etc.
  |Case Study| Create real-life sample tutorials on how to build with the DBDP (either articles or video tutorials)
  |Glossary | Build a glossary for all technical terms in this project.
  |Visibility | The documentation isnt easy to see , at least it should be visible in the project landing page and github .
